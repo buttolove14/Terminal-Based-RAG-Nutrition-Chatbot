@@ -1,0 +1,107 @@
+=== Section: General Healthy Diet ===
+A balanced diet includes a variety of foods: vegetables, fruits, whole grains, lean proteins, and healthy fats. Limiting added sugars, saturated fats, and excessive sodium intake is critical. Hydration with water and regular physical activity are essential components of a healthy lifestyle.
+
+Recommended Plate:
+- 50% vegetables and fruits
+- 25% whole grains
+- 25% lean proteins
+- Use healthy oils (e.g., olive oil)
+- Limit processed and red meats
+
+=== Section: Vegetarian Diet ===
+Vegetarian diets exclude meat and fish, but often include eggs and dairy. They can meet all nutritional needs with careful planning.
+
+Typical Vegetarian Meal Plan:
+- Breakfast: Oats with almonds, soy milk, banana
+- Lunch: Quinoa salad with black beans and avocado
+- Dinner: Lentil curry, brown rice, sautéed spinach
+
+Nutrition Focus:
+- Ensure sufficient B12, iron, and protein
+- Include legumes, tofu, tempeh, dairy or fortified milk alternatives
+- Use nuts and seeds for healthy fats
+
+=== Section: Diabetic-Friendly Diet ===
+Designed to manage blood sugar levels. Focuses on low glycemic index (GI) foods, fiber, and balanced macronutrients.
+
+Typical Diabetic Meal Plan:
+- Breakfast: Whole grain toast, egg, unsweetened tea
+- Lunch: Grilled chicken with non-starchy veggies
+- Dinner: Brown rice with tofu stir fry, cucumber salad
+
+Guidelines:
+- Avoid sugary drinks and refined carbs
+- Eat smaller, frequent meals to control glucose spikes
+- Carbohydrates should be 45-60% of total calories, mainly from complex carbs
+
+=== Section: High-Protein Diet ===
+Used for muscle building, weight loss, or recovery. Includes lean meats, dairy, legumes, and protein supplements.
+
+Meal Examples:
+- Chicken breast, boiled eggs, Greek yogurt, lentils, cottage cheese
+- Breakfast: Scrambled eggs, spinach, whole grain toast
+- Post-workout: Protein shake with banana
+
+Key Metrics:
+- Protein intake: 1.2–2.2 g/kg of body weight
+- Combine with strength training for muscle gain
+
+=== Section: Low-Carb Diet ===
+Limits carbohydrate intake to promote fat metabolism (used in keto and similar diets).
+
+Core Foods:
+- Eggs, meat, poultry, fish
+- Leafy greens, avocado, non-starchy vegetables
+- Nuts, seeds, oils
+
+Avoid:
+- Bread, rice, pasta, sugary snacks, fruit juices
+
+Macro Targets (Typical):
+- Carbs: 20–50g/day
+- Fat: 60–70% of calories
+- Protein: 20–30%
+
+=== Section: Iron-Rich Foods (Anemia Support) ===
+Supports individuals with low hemoglobin or iron deficiency.
+
+Recommended:
+- Spinach, lentils, chickpeas
+- Tofu, fortified cereals
+- Red meat (for non-vegetarians)
+- Vitamin C-rich fruits to aid iron absorption (e.g., oranges)
+
+Meal Tips:
+- Avoid tea/coffee with meals (inhibits iron absorption)
+- Pair iron-rich meals with citrus or bell peppers
+
+=== Section: Nutritional Goals by Age Group ===
+Children (4–8 years):
+- Calories: 1,200–1,600/day
+- Focus on calcium, protein, whole grains
+
+Adults (19–50 years):
+- Calories: 1,800–2,400/day (depends on activity)
+- Balance all macros, limit sugar and sodium
+
+Elderly (65+):
+- Calories: ~1,600–2,000/day
+- Focus on calcium, fiber, hydration
+
+=== Section: Hydration ===
+General recommendation: 8–10 cups (2–2.5L) of water per day. Needs increase with activity, climate, or medical conditions.
+
+Hydrating Foods:
+- Cucumbers, watermelon, citrus fruits, soups
+
+Dehydration signs:
+- Dry mouth, fatigue, dizziness, dark yellow urine
+
+=== Section: Common Nutrition Mistakes ===
+- Skipping meals
+- Too much protein, not enough fiber
+- Over-relying on supplements instead of whole foods
+- Excess sugar in 'healthy' foods (e.g., granola bars)
+
+=== Disclaimer ===
+This dataset is intended for informational purposes only. It is not a substitute for professional medical advice. Consult a licensed dietitian or healthcare provider for personalized nutrition planning.

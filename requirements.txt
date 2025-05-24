@@ -1,0 +1,7 @@
+google-cloud-aiplatform
+openai
+python-dotenv
+supabase
+PyMuPDF
+requests
+sentence-transformers
