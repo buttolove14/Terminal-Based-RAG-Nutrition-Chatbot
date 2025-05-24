@@ -6,7 +6,7 @@ A terminal-based chatbot that generates personalized nutrition plans using user 
 
 - User inputs: age, gender, height, weight, activity, diet, medical summary
 - Nutrition context retrieval from embedded documents
-- Personalized diet plan using GPT-4o-mini
+- Personalized diet plan
 - Entirely terminal-based
 
 ## Setup
