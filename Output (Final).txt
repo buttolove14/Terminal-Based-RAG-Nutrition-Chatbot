@@ -1,0 +1,216 @@
+Microsoft Windows [Version 10.0.22631.5039]
+(c) Microsoft Corporation. All rights reserved.
+
+D:\chatbot>python chatbot.py
+2025-05-24 07:20:53.974072: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-24 07:20:57.517821: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+WARNING:tensorflow:From C:\Users\aksha\AppData\Local\Programs\Python\Python310\lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+Welcome to your Nutrition Assistant!
+⚠️ Disclaimer: This tool does not provide medical advice. Consult a healthcare provider.
+
+Name: Akshaya Saravanan
+Age: Female
+Gender: Male
+Height (cm): 176
+Weight (kg): 80
+Activity level (e.g., sedentary, moderate, active): Sedentary
+Dietary preference/restriction (e.g., vegan, diabetic): Allergic to crabs
+Medical test report summary (optional): High Hemoglobin
+
+Generated Personalized Diet Plan:
+
+The provided information contains a contradiction: Akshaya Saravanan is identified as both female and male.  Additionally, the user profile states a high hemoglobin level, which is the opposite of the condition the "Iron-Rich Foods" section addresses.  A high hemoglobin level indicates a potential excess of iron, not a deficiency.
+
+Therefore, a personalized nutrition plan focusing on reducing hemoglobin is inappropriate and potentially harmful without further medical consultation.  Providing a plan to lower hemoglobin without a doctor's recommendation would be irresponsible.
+
+**Instead of a nutrition plan focusing on iron, I can offer a general healthy eating plan suitable for a sedentary male adult (assuming the gender listed as "Male" is accurate), given his height and weight (BMI is approximately 25.8, which falls into the overweight category) and considering his allergy to crabs:**
+
+**Akshaya Saravanan's General Healthy Eating Plan (Consult your doctor before making significant dietary changes):**
+
+**Goals:**  Weight management (gradual weight loss recommended), balanced nutrient intake, and maintaining overall health.
+
+**Calorie Target:**  Given his sedentary lifestyle and slightly elevated weight, a daily caloric intake of approximately 1800-2000 calories is a reasonablestarting point.  This should be adjusted based on his weight loss progress and individual needs.  A registered dietitian or doctor can provide a more precise calculation.
+
+**Macronutrient Distribution (Approximate):**
+
+* **Protein:** 15-20% of total calories (aim for lean protein sources).
+* **Carbohydrates:** 45-60% of total calories (prioritize complex carbohydrates like whole grains).
+* **Fats:** 20-35% of total calories (focus on healthy unsaturated fats).
+
+**Sample Meal Plan (Adjust portions to meet calorie goals):**
+
+**Breakfast (approx. 400-500 calories):**
+
+* Oatmeal (1/2 cup dry) with berries (1/2 cup), nuts (1/4 cup), and a sprinkle of chia seeds.
+* OR:  Greek yogurt (1 cup) with fruit and a small amount of granola.
+
+**Lunch (approx. 500-600 calories):**
+
+* Large salad with grilled chicken or fish (4-6 oz), mixed greens, vegetables, and a light vinaigrette dressing.
+* OR:  Lentil soup (1.5 cups) with a whole-wheat roll.
+
+**Dinner (approx. 600-700 calories):**
+
+* Baked salmon (4-6 oz) with roasted vegetables (broccoli, carrots, peppers).
+* OR:  Chicken stir-fry with brown rice and plenty of vegetables.
+
+**Snacks (approx. 200-300 calories total):**
+
+* Fruits (apple, banana, orange)
+* Vegetables (carrots, celery with hummus)
+* A small handful of nuts or seeds.
+
+
+**Important Considerations:**
+
+* **Hydration:** Drink plenty of water throughout the day.
+* **Portion Control:** Be mindful of serving sizes.
+* **Limit Processed Foods, Added Sugars, and Saturated Fats:**  Choose whole, unprocessed foods whenever possible.
+* **Regular Physical Activity:**  Even moderate exercise (30 minutes most days of the week) will significantly aid in weight management and overall health.
+* **Crab Allergy:**  Always carefully check food labels and inform restaurant staff about your allergy.
+
+**Disclaimer:** This is a sample meal plan and may not be suitable for everyone.  It is crucial to consult with a doctor or registered dietitian for personalized advice based on Akshaya's specific health needs, medical history, and preferences.  The information provided here is for informational purposes only and should not be considered medical advice.
+
+
+⚠️ Disclaimer: This tool does not provide medical advice. Consult a healthcare provider.
+
+🔍 Retrieved 5 relevant context chunks from Supabase.
+
+D:\chatbot>python chatbot.py
+2025-05-24 07:23:59.627204: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-24 07:24:03.273802: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+WARNING:tensorflow:From C:\Users\aksha\AppData\Local\Programs\Python\Python310\lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+Welcome to your Nutrition Assistant!
+⚠️ Disclaimer: This tool does not provide medical advice. Consult a healthcare provider.
+
+Name: Saravanan
+Age: 52
+Gender: Male
+Height (cm): 179
+Weight (kg): 50
+Activity level (e.g., sedentary, moderate, active): Active
+Dietary preference/restriction (e.g., vegan, diabetic): Diabetic
+Medical test report summary (optional): Heart PF is 40%
+
+Generated Personalized Diet Plan:
+
+## Personalized Nutrition Plan for Saravanan
+
+**Disclaimer:** This plan is a suggestion based on the provided information and general dietary guidelines.  It is not a substitute for professional medical advice. Saravanan MUST consult a licensed dietitian or healthcare provider, especially considering his heart condition (40% PF) and diabetes, for a personalized and safe plan. This plan should be reviewed and adjusted by a professional.
+
+
+**Profile:**
+
+* **Name:** Saravanan
+* **Age:** 52
+* **Gender:** Male
+* **Height:** 179 cm
+* **Weight:** 50 kg (Underweight; weight gain may be a goal, but needs professional assessment)
+* **Activity Level:** Active
+* **Diet:** Diabetic
+* **Medical:** Heart PF 40% (This requires careful consideration of sodium and saturated fat intake)
+
+
+**Dietary Goals:**
+
+* **Manage Blood Sugar:** Prioritize low-glycemic index (GI) foods, high fiber intake, and balanced macronutrients.
+* **Support Heart Health:** Minimize saturated and trans fats, sodium, and cholesterol.
+* **Address Underweight:** Gradually increase caloric intake through nutrient-dense foods.  (This needs careful monitoring to avoid rapid weight gain, which can exacerbate heart issues).
+* **Maintain a Healthy Weight:**  Weight management will need to be tailored to address both diabetes and heart condition.  This requires professional guidance.
+
+**Caloric Needs:**
+
+Determining precise caloric needs requires a more detailed assessment, ideally by a registered dietitian or healthcare professional.  Given his age, activity level, and underweight status, a range of **2000-2400 calories per day** might be a starting point, but this MUST be verified.
+
+**Macronutrient Distribution (Approximate, needs professional adjustment):**
+
+* **Carbohydrates:** 45-60% of total calories (prioritizing complex carbohydrates like whole grains, vegetables, and legumes).
+* **Protein:** 20-25% of total calories (lean sources like chicken, fish, tofu, beans, lentils).  Sufficient protein is important for muscle mass and overall health but excessive protein might need to be avoided due to potential impacts on the kidneys.
+* **Fats:** 25-35% of total calories (emphasizing unsaturated fats from sources like olive oil, avocados, nuts, and seeds. Minimize saturated and trans fats).
+
+**Sample Meal Plan (This is a sample and needs individual adjustment):**
+
+**(Calorie counts are estimates and will vary based on portion sizes and specific ingredients.)**
+
+* **Breakfast (approx. 400-500 calories):** Oatmeal (1/2 cup dry) with berries (1/2 cup), chopped nuts (1/4 cup), and a sprinkle of chia seeds.  A small portion of lean protein (e.g., a scrambled egg or a small serving of Greek yogurt) could be added.
+* **Mid-Morning Snack (approx. 150-200 calories):** Apple slices with almond butter (1-2 tbsp).
+* **Lunch (approx. 500-600 calories):**  Large salad with grilled chicken breast (4-6 oz), mixed greens, non-starchy vegetables (e.g., broccoli, peppers, cucumber), and a light vinaigrette dressing.  A small portion of quinoa or brown rice could be included.
+* **Afternoon Snack (approx. 150-200 calories):**  A handful of almonds or a small container of plain Greek yogurt.
+* **Dinner (approx. 600-700 calories):** Baked salmon (4-6 oz) with roasted vegetables (e.g., asparagus, sweet potatoes, Brussels sprouts) and a small portion of brown rice or quinoa.
+* **Evening Snack (Optional, approx. 100-150 calories):**  A small bowl of berries.
+
+
+**Important Considerations:**
+
+* **Hydration:** Drink plenty of water throughout the day.
+* **Sodium Control:** Limit processed foods, salty snacks, and added salt to help manage blood pressure, which is crucial with his heart condition.
+* **Fiber Intake:**  Increase fiber gradually to avoid digestive discomfort. Excellent sources include whole grains, fruits, vegetables, and legumes.
+* **Portion Control:**  Pay attention to portion sizes to manage caloric intake and blood sugar levels.
+* **Blood Sugar Monitoring:** Regularly monitor blood sugar levels as advised by his healthcare provider.
+* **Regular Exercise:**  Continue with his active lifestyle. Exercise is beneficial for both diabetes and heart health.
+* **Medication:** Adhere strictly to any prescribed medication for diabetes and heart conditions.
+* **Professional Guidance:**  Regular follow-up with his doctor, cardiologist, and a registered dietitian is essential for monitoring progress, making adjustments, and addressing any concerns.
+
+
+This plan provides a framework.  **It is absolutely crucial that Saravanan consults with his healthcare team to create a safe and effective plan tailored to his specific needs and health conditions.**  The information provided here should not be considered a replacement for professional medical advice.
+
+
+⚠️ Disclaimer: This tool does not provide medical advice. Consult a healthcare provider.
+
+🔍 Retrieved 5 relevant context chunks from Supabase.
+
+D:\chatbot>python chatbot.py
+2025-05-24 07:26:43.688238: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-24 07:26:47.220824: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+WARNING:tensorflow:From C:\Users\aksha\AppData\Local\Programs\Python\Python310\lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+Welcome to your Nutrition Assistant!
+⚠️ Disclaimer: This tool does not provide medical advice. Consult a healthcare provider.
+
+Name: Sai Vidharth
+Age: 12
+Gender: Male
+Height (cm): 133.5
+Weight (kg): 35
+Activity level (e.g., sedentary, moderate, active): Moderate
+Dietary preference/restriction (e.g., vegan, diabetic): No
+Medical test report summary (optional): Alopecia areata
+
+Generated Personalized Diet Plan:
+
+I cannot provide a complete personalized nutrition plan for Sai Vidharth.  I am an AI and cannot give medical or dietary advice.  Sai's age (12), height, weight, and activity level, along with his condition (alopecia areata), require assessment and guidance from a qualified healthcare professional, specifically a registered dietitian or pediatrician.
+
+Alopecia areata is an autoimmune condition, and while diet may play a role in overall health and well-being, it's crucial to have a medical professional determine if any specific dietary changes are needed to support his health.  They can also assess if Sai's weight and height are within a healthy range for his age and determine his appropriate caloric intake.
+
+**Instead of a specific plan, I can offer some general guidelines based on the provided information and the general nutritional recommendations for children aged 4-8:**
+
+* **Calorie Range:**  Sai's age falls within the 8-12 year old range, so his caloric needs will likely be within the 1200-1600 calorie range per day, but this needs confirmation from a professional based on his activity level and growth needs.  His moderate activity level suggests he might be closer to the higher end of this range.
+
+* **Macronutrients:**  Focus should be on a balance of:
+    * **Protein:** Essential for growth and repair.  Good sources include lean meats (if not vegetarian), beans, lentils, eggs, dairy products, nuts, and seeds.
+    * **Carbohydrates:** Should be primarily from whole grains (like brown rice, whole wheat bread, oats).  Limit added sugars.
+    * **Fats:** Healthy fats from sources like avocados, nuts, seeds, and olive oil are important for brain development.
+
+
+* **Micronutrients:**  Ensure adequate intake of:
+    * **Calcium:**  Crucial for bone growth. Good sources are dairy products, leafy green vegetables, and fortified plant milks.
+    * **Iron:** Important for blood production.  Good sources include lean red meats (if not vegetarian), beans, lentils, spinach, and fortified cereals.
+    * **Vitamin D:** Important for bone health and calcium absorption (sunlight is also a source, but check for appropriate sunlight exposure).
+
+* **Hydration:** Encourage plenty of water throughout the day.
+
+* **Meal Timing and Frequency:**  Avoid skipping meals.  Three balanced meals and possibly one or two healthy snacks are recommended.
+
+**Regarding Alopecia Areata:** While there is no specific diet proven to cure alopecia areata, a healthy and balanced diet supports overall health, which is important for managing any condition.  A medical professional can advise on any specific dietary considerations or supplements that might be helpful in Sai's case.
+
+
+**It is absolutely critical that Sai's parents schedule an appointment with his pediatrician or a registered dietitian to obtain a personalized nutrition plan tailored to his specific needs and health condition.**  This general information should not replace professional guidance.
+
+
+⚠️ Disclaimer: This tool does not provide medical advice. Consult a healthcare provider.
+
+🔍 Retrieved 5 relevant context chunks from Supabase.
+
+D:\chatbot>
