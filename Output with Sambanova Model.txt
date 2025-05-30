@@ -1,0 +1,89 @@
+Microsoft Windows [Version 10.0.22631.5039]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\aksha\OneDrive\Documents\chatbot>python chatbot.py
+Welcome to your Nutrition Assistant!
+⚠️ Disclaimer: This tool does not provide medical advice. Consult a healthcare provider.
+
+Name: S Akshaya Saravanan
+Age: 19
+Gender: Female
+Height (cm): 175
+Weight (kg): 89
+Activity level (e.g., sedentary, moderate, active): No Activity
+Dietary preference/restriction (e.g., vegan, diabetic): Allergic to Crabs
+Medical test report summary (optional): High Hemoglobin
+
+Generated Personalized Diet Plan:
+
+## Personalized Nutrition Plan for S Akshaya Saravanan
+
+**Profile Summary:**
+
+* **Name:** S Akshaya Saravanan
+* **Age:** 19 (Adult)
+* **Gender:** Female
+* **Height:** 175 cm
+* **Weight:** 89 kg
+* **Activity Level:** Sedentary
+* **Diet:** Allergic to crabs
+* **Medical:** High Hemoglobin
+
+**Goals:**
+
+* Manage high hemoglobin levels.  This requires a diet lower in iron than the general recommendation, especially red meat.
+* Maintain a healthy weight through a calorie deficit, while avoiding nutrient deficiencies.  Given the high hemoglobin, focusing on weight loss will be prioritized over muscle gain.
+* Adopt a balanced and healthy diet appropriate for a 19-year-old adult.
+
+**Calorie Target:**
+
+Given Akshaya's age, gender, height, weight, and low activity level, a reasonable starting calorie goal is approximately 1800-2000 calories per day.  This provides a moderate calorie deficit for weight loss without being overly restrictive.  This needs to be adjusted based on her progress and response.  A registered dietitian or nutritionist should be consulted to refine this number.
+
+**Macronutrient Distribution (Approximate):**
+
+* **Protein:** 15-20% of total calories (around 90-120g) This supports muscle mass and satiety without excess.
+* **Carbohydrates:** 50-55% of total calories (around 225-250g). This should focus heavily on complex carbohydrates like whole grains, fruits and vegetables.
+* **Fats:** 25-30% of total calories (around 50-60g).  Choose healthy fats from sources like avocados, nuts, seeds, andolive oil.
+
+
+**Dietary Recommendations:**
+
+Considering Akshaya's high hemoglobin, the iron-rich foods should be minimized or substituted with iron-poor alternatives.
+
+**Sample Meal Plan (1800-2000 Calories):**
+
+This is a *sample* plan and portion sizes should be adjusted to meet individual calorie needs.  Calorie counting apps can be helpful.
+
+**Day 1:**
+
+* **Breakfast (approx. 350 calories):** Oatmeal (1/2 cup dry) with berries (1/2 cup), a sprinkle of nuts (1/4 cup), anda splash of milk (skim or almond).
+* **Lunch (approx. 450 calories):**  Large salad with mixed greens, grilled chicken breast (4oz), chickpeas (1/2 cup), avocado (1/4), and a light vinaigrette dressing.
+* **Snack (approx. 150 calories):**  Greek yogurt (1 cup) with a few berries.
+* **Dinner (approx. 500 calories):** Baked salmon (4oz), quinoa (1/2 cup cooked), steamed broccoli (1 cup), and a smallside of brown rice (1/2 cup).
+* **Snack (approx. 350 calories):** Apple slices with 2 tablespoons of peanut butter.
+
+
+**Day 2:**
+
+* **Breakfast (approx. 300 calories):** Scrambled eggs (2) with spinach and whole-wheat toast (1 slice).
+* **Lunch (approx. 400 calories):** Lentil soup (1.5 cups) with a side salad.
+* **Snack (approx. 100 calories):**  A small handful of almonds.
+* **Dinner (approx. 550 calories):**  Turkey breast (4oz) stir-fry with lots of non-starchy vegetables (broccoli, peppers, carrots). Serve over brown rice (1/2 cup cooked).
+* **Snack (approx. 450 calories):** Cottage cheese (1 cup) with sliced peaches.
+
+
+**Important Considerations:**
+
+* **Hydration:** Aim for 8-10 cups of water daily.
+* **Iron Reduction:**  Minimize or avoid red meat, spinach, and other high-iron foods. Opt for iron-poor protein sources like chicken, turkey, fish, and beans in moderate portions.
+* **Regular Blood Tests:**  Regular blood tests are crucial to monitor hemoglobin levels. Akshaya should work closely with her doctor to adjust her diet and ensure her hemoglobin levels remain within a healthy range.
+* **Professional Guidance:** This is a general plan.  Akshaya should consult a registered dietitian or nutritionist forpersonalized dietary advice and to create a more detailed plan that considers individual needs and preferences.  They can help determine precise caloric needs, macronutrient ratios, and address any potential nutrient deficiencies.
+
+**Disclaimer:** This information is for general knowledge and does not constitute medical advice.  Always consult with a healthcare professional before making any significant changes to your diet or exercise routine, especially if you havepre-existing health conditions.
+
+
+⚠️ Disclaimer: This tool does not provide medical advice. Consult a healthcare provider.
+
+🔍 Retrieved 5 relevant context chunks from Supabase.
+
+C:\Users\aksha\OneDrive\Documents\chatbot>
